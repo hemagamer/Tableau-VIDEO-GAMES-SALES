@@ -1,45 +1,111 @@
-Global Video Game Sales Analysis (Tableau)
+---
 
-A comprehensive analysis of global video game sales trends from 1980 to 2020. This project uses a Kaggle dataset to visualize market share, genre popularity, and regional performance.
+## 🎮 **Global Video Game Sales Analysis — Tableau Dashboard**
 
-🔴 Interactive Dashboard
+A deep-dive into **40 years of video-game industry data (1980–2020)**.
+This interactive Tableau project explores global sales performance across **genres, platforms, publishers, and regions**, revealing how the gaming market evolved from the NES era to modern consoles.
 
-View the live, interactive dashboard on Tableau Public:
+---
 
-https://public.tableau.com/views/Book1_17617473256860/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+### ✅ **Live Dashboard**
 
-Dashboard Preview
+🔗 **View on Tableau Public:**
+[https://public.tableau.com/views/Book1_17617473256860/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link](https://public.tableau.com/views/Book1_17617473256860/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-(Note: To add your own screenshot, take a picture of your dashboard, save it as dashboard_screenshot.png in this same folder, and it will appear here.)
+---
 
-Key Analyses in This Workbook
+### 📊 **Dashboard Preview**
 
-This project visualizes several key aspects of the video game market:
+> *(Add `dashboard_screenshot.png` here)*
+> `![Dashboard Preview](dashboard_screenshot.png)`
 
-Global Sales Over Time: Tracks the growth of the industry from 1980.
+---
 
-Genre Performance: Identifies which game genres (e.g., Action, Sports, RPG) have generated the most revenue.
+### 🧠 **Key Insights & Features**
 
-Platform Market Share: Breaks down sales by console (e.g., PS4, Xbox One, Wii, DS).
+| Category                        | Highlights                                          |
+| ------------------------------- | --------------------------------------------------- |
+| 🎯 **Top-Selling Titles**       | Explore the all-time best-selling games worldwide   |
+| 🌍 **Regional Sales Breakdown** | NA vs EU vs JP preferences — surprising differences |
+| 🎮 **Platform Market Share**    | From NES → PS2 dominance → modern console race      |
+| 🧩 **Genre Trends**             | Action & Sports lead globally — RPGs dominate Japan |
+| 📈 **Sales Trend Timeline**     | Industry evolution & console generation cycles      |
 
-Regional Sales Comparison: Compares performance across North America, Europe, and Japan.
+---
 
-Top 20 Sold Games: A filterable list of the highest-selling games of all time.
+### 📂 **Dashboards Included**
 
-Dashboards Included
+| Dashboard                | Focus                                                |
+| ------------------------ | ---------------------------------------------------- |
+| **Global Overview**      | Total sales, annual trends, and genre performance    |
+| **Market Insight Board** | Platform share, regional comparison & top publishers |
 
-Dashboard 1 (Global Overview): Focuses on high-level trends, including global sales over time and a breakdown by genre.
+---
 
-Dashboard 2 (Market Analysis): Provides a detailed breakdown of platform market share, genre performance, and a regional sales comparison.
+### 🗂 **Dataset Information**
 
-Data Source
+| Info        | Details                                                          |
+| ----------- | ---------------------------------------------------------------- |
+| **File**    | `vgsales.csv`                                                    |
+| **Source**  | Kaggle — Video Game Sales Dataset                                |
+| **Records** | ~16,500 games                                                    |
+| **Fields**  | Rank, Name, Year, Genre, Publisher, Regional Sales, Global Sales |
 
-File: vgsales.csv
+---
 
-Source: Sourced from the "Video Game Sales with Ratings" dataset, commonly found on Kaggle.
+### 🚀 **How to View**
 
-How to View
+| Method         | Details                                              |
+| -------------- | ---------------------------------------------------- |
+| 📌 **Online**  | Click the Tableau Public link for full interactivity |
+| 💾 **Offline** | Download the `.twbx` file and open in Tableau Reader |
 
-Best Method (Interactive): Click the Tableau Public link above.
+---
 
-Offline Method: You can download the video-game-sales-analysis.twbx file from this repository. This file can be opened with Tableau Reader (a free tool) or any version of Tableau Desktop.
+### 🛠 **Tech & Tools**
+
+* **Tableau Desktop / Tableau Public**
+* Data cleaning & preprocessing
+* KPI dashboards + custom filters
+* Visual storytelling & UX-optimized layout
+
+---
+
+### ⭐ **What This Shows About My Skills**
+
+* Data wrangling & analytics
+* Data visualization best-practices
+* Interactive BI dashboards
+* Insight-driven narrative building
+
+---
+
+### 📎 **Future Improvements**
+
+* Add ESRB ratings & critic/user score correlations
+* Integrate Metacritic review sentiment
+* Build predictive sales models (Python + Tableau hybrid)
+
+---
+
+### 🙌 **Credits**
+
+Dataset: Kaggle — Video Game Sales
+Visualization: Tableau Public
+
+---
+
+### 💬 **Feedback Welcome**
+
+If you're into data + gaming like me, let's connect & talk dashboards 🎮📊🔥
+
+---
+
+If you want, tell me and I’ll also give you:
+
+✅ Matching LinkedIn post text
+✅ GitHub folder structure for BI projects
+✅ A banner image idea
+✅ A short demo video script (for reels / TikTok / LinkedIn)
+
+Just say the word 👀
