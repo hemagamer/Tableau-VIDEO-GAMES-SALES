@@ -16,8 +16,8 @@ This interactive Tableau project explores global sales performance across **genr
 
 ### 📊 **Dashboard Preview**
 
-> *(Add `dashboard_screenshot.png` here)*
-> `![Dashboard Preview](dashboard_screenshot.png)`
+> dashboard_screenshot
+> ![Dashboard Preview](dashboard_screenshot.png)
 
 ---
 
@@ -101,11 +101,3 @@ If you're into data + gaming like me, let's connect & talk dashboards 🎮📊�
 
 ---
 
-If you want, tell me and I’ll also give you:
-
-✅ Matching LinkedIn post text
-✅ GitHub folder structure for BI projects
-✅ A banner image idea
-✅ A short demo video script (for reels / TikTok / LinkedIn)
-
-Just say the word 👀
